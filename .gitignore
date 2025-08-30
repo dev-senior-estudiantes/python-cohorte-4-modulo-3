@@ -1,22 +1,18 @@
-notebook
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
 # Virtual environment
+.venv/
 venv/
-.env/
+__pycache__/
 
-# VSCode settings
-.vscode/
-
-# PyCharm project settings
+# IDE configuration
 .idea/
 
-# OS files
-.DS_Store
-Thumbs.db
+# Log files
+*.log
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+
+
+
